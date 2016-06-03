@@ -1,0 +1,1 @@
+### Linux academy Jenkins example job for static project build
